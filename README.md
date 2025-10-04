@@ -138,4 +138,4 @@ We welcome contributions to the AI-powered Report Summarizer! Please follow thes
 
 This project currently has **no explicit license**.
 
-This means that, by default, all rights are reserved by the copyright holder(s) (UjjwalBaranwal). You may not reproduce, distribute, or create derivative works from this project without explicit permission. If you wish to use this project, please contact the main contributor for potential licensing options.
+This means that, by default, all rights are reserved by the copyright holder(s) . You may not reproduce, distribute, or create derivative works from this project without explicit permission. If you wish to use this project, please contact the main contributor for potential licensing options.
